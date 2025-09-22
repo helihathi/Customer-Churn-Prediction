@@ -12,7 +12,7 @@ Telecom companies want to identify customers who are likely to cancel (churn) so
 
 ## 📂 Project Structure
 
-* `telco-churn-notebook.ipynb` — main Jupyter Notebook with code, charts, and model outputs.
+* `customer-churn-prediction.ipynb` — main Jupyter Notebook with code, charts, and model outputs.
 
 (The notebook contains the full pipeline shown in the shared code block.)
 
